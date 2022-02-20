@@ -9,7 +9,7 @@
 		"screencast",
 		"magicMirror"
 	],
-	"main": "MMM-pages-screencast.js",
+	"main": "MMM-Pages-Screencast.js",
 	"bugs": {
 		"url": "https://github.com/jboucly/MMM-pages-screencast/issues"
 	},
