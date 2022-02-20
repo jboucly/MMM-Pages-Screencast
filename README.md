@@ -1,4 +1,4 @@
-# MagicMirror2 Module: MMM-FTP-image
+# MagicMirror2 Module: MMM-Page-Screencast
 
 ```sh
   __  __ __  __ __  __       ____                       ____                                         _
