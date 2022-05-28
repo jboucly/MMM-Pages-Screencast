@@ -70,4 +70,4 @@ The following properties can be configured:
 | Options  | Required | Default | Description                                                |
 | -------- | :------: | :-----: | ---------------------------------------------------------- |
 | homePage |  false   |    0    | Home page of MMM-pages module                              |
-| castPage |  fasle   |    1    | The page where the module is located MMM-Screencast module |
+| castPage |  false   |    1    | The page where the module is located MMM-Screencast module |
